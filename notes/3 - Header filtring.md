@@ -3,6 +3,8 @@
 In some cases, you can wish to filter headers which will be explained on this page.
 
 ```conf nginx.conf
+...
+
 http {
   js_path "/etc/nginx/njs/";
 
