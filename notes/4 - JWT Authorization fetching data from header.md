@@ -1,4 +1,4 @@
-# 4. JWT Authorization fetching data from header
+# 4. JWT fetching data from header
 
 This module is decrypting data from in header data.
 
