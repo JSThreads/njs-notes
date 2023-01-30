@@ -38,4 +38,7 @@ service nginx start
 
 ## Pages
 
-*none*
+1. [First steps](https://github.com/PovaJS/njs-notes/blob/main/notes/1%20-%20First%20steps.md)
+2. [Simple auth](https://github.com/PovaJS/njs-notes/blob/main/notes/2%20-%20Simple%20auth.md)
+3. [Header filtring](https://github.com/PovaJS/njs-notes/blob/main/notes/3%20-%20Header%20filtring.md)
+4. [JWT fetching data from header](https://github.com/PovaJS/njs-notes/blob/main/notes/4%20-%20JWT%20fetching%20data%20from%20header.md)
