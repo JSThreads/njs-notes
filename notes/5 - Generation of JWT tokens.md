@@ -71,3 +71,5 @@ export default { gen_token }
 ~ /   curl localhost/jwt
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzb21ldmFsdWUiOiJjb250ZW50IiwibWVzc2FnZSI6ImhlcmUiLCJudW1iZXIiOjEyMywiZXhwIjoxNjc1MjEwNTk1fQ.-pprK22CIDLxnQw1C1hPBehSU2tmUGghIYiJzaziYrU
 ```
+
+> https://www.nginx.com/blog/securing-urls-secure-link-module-nginx-plus/
